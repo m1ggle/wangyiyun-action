@@ -24,10 +24,7 @@ jobs:
     - name: 签到
       run: |
         pip install -r requirements.txt
-        
-        user='15210860893'
-        pwd='2580,love'
-        
+
         user_list=()
         pwd_list=()
 
